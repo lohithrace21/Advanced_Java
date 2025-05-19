@@ -11,3 +11,4 @@
 1c_LinkedListIterationExample o/p link:-(https://github.com/lohithrace21/Advanced_Java/commit/2555e9ec51df9e1007fdf5a90e6bf2919dc3c062)
 1c_ReverseLinkedListIteration :-(https://github.com/lohithrace21/Advanced_Java/blob/main/Screenshot-1c_ReverseLinkedListIteration.png)
 1c_InsertAtEndExample o/p link:-(https://github.com/lohithrace21/Advanced_Java/blob/main/Screenshot-1c_InsertAtEndExample.png)
+1c_DisplayElementsWithPositions o/p link:-(https://github.com/lohithrace21/Advanced_Java/blob/main/Screenshot-1c_DisplayElementsWithPositions.png)
