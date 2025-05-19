@@ -15,3 +15,4 @@
 1c_SwapElementsExample o/p link:-(https://github.com/lohithrace21/Advanced_Java/blob/main/Screenshot-1c_SwapElementsExample.png)
 2a_StringOperationsDemo o/p link:-(https://github.com/lohithrace21/Advanced_Java/blob/main/Screenshot-2a_StringOperationsDemo.png)
 2b_StringBufferVsStringBuilderTest:-(https://github.com/lohithrace21/Advanced_Java/blob/main/Screenshot-2b_StringBufferVsStringBuilderTest.png)
+3b_NullOrEmptyCheck o/p link:-(https://github.com/lohithrace21/Advanced_Java/blob/main/Screenshot-3b_NullOrEmptyCheck.png)
