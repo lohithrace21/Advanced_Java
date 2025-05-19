@@ -12,3 +12,4 @@
 1c_ReverseLinkedListIteration :-(https://github.com/lohithrace21/Advanced_Java/blob/main/Screenshot-1c_ReverseLinkedListIteration.png)
 1c_InsertAtEndExample o/p link:-(https://github.com/lohithrace21/Advanced_Java/blob/main/Screenshot-1c_InsertAtEndExample.png)
 1c_DisplayElementsWithPositions o/p link:-(https://github.com/lohithrace21/Advanced_Java/blob/main/Screenshot-1c_DisplayElementsWithPositions.png)
+1c_SwapElementsExample o/p link:-(https://github.com/lohithrace21/Advanced_Java/blob/main/Screenshot-1c_SwapElementsExample.png)
